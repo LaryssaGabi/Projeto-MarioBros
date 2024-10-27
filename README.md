@@ -1,5 +1,4 @@
-# Resumo do Código HTML e JavaScript
-
+# Mario Bros
 Este documento HTML cria uma página dedicada ao filme "Super Mario Bros", apresentando um vídeo de fundo, informações sobre o filme e a funcionalidade de exibir um trailer em um modal.
 
 ## Estrutura da Página
